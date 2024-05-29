@@ -1,8 +1,8 @@
-Project on Python, Flask, SQLALchemy is RESTful API about films and actors with CRUD operations
+# Project on Python, Flask, SQLALchemy is RESTful API about films and actors with CRUD operations
 
-------------------------------------------------------------------------------------------------
+---
 
-Used Technologies:
+__Used Technologies:__
    - Python 3.11
    - Flask 3.0.2
    - SQLAlchemy 2.0.28
@@ -10,6 +10,8 @@ Used Technologies:
    - Requests2.31.0
    - Beautifulsoup4 4.12.3
 
-------------------------------------------------------------------------------------------------
+---
 Install dependencies:
+```
  - pip install -r requirements.txt
+```
